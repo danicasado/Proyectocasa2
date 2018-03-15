@@ -1,1 +1,1 @@
-hola
+reparando fichero
